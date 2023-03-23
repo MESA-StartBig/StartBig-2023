@@ -26,6 +26,8 @@ We will now go through each one of them giving general **best practices** and so
 
 ### Curriculum Vitae (CV)
 
+---
+
 Writing a good CV is one of the main topic of discussion when trying to apply for a job position or internship.
 
 These are some general best practices:
@@ -42,6 +44,8 @@ Also the podcast from the CareerService gives advices on how to write a good CV.
 
 ### Cover Letter
 
+---
+
 Covers your story, resumes the parts of your life relevant from the company.
 
 It shouldn't be too long (20 lines, divided in 4 paragraphs) a general good practice of dividing it is the following:
@@ -55,6 +59,8 @@ A different take suggests to use the same structure but to use **metaphors** in 
 
 ### LinkedIn
 
+---
+
 It's crucial to have an updated and curated profile because for many recruiters it's the first thing they see looking for us. 
 
 Be sure to always:
@@ -65,6 +71,8 @@ Be sure to always:
 * **Connect** with the right people and **join groups** on LinkedIn based on your interests
 
 ### Interview Process
+
+---
 
 There are different kinds of interview that test different things. This depends on the interview process, this can vary from company to company. Be sure to know how the interview process of the company you're applying to works. 
 
