@@ -22,7 +22,7 @@ This is usually composed of **Experiences** (Work, volounteering, associations, 
 You can do so using the documents you will send them: **Curriculum Vitae, Cover Letter**, your socials like **LinkedIn** and finally face to face in the **Interview process**.
 
 *How can I handle all this aspects and get the job position or internship that I want?*
-We will now go through each one of them giving general **best practices** and some suggestions
+We will now go through each one of them giving general **best practices** and some suggestions.
 
 ### Curriculum Vitae (CV)
 
@@ -32,7 +32,7 @@ Writing a good CV is one of the main topic of discussion when trying to apply fo
 
 These are some general best practices:
 1. **One page** only! Be **concise**!
-    Generally the person that will go through your CV (or algorithm e.d.) won't have time to read it though carefully (or will prefere a shorter CV if it is an algorithm e.d.) and will get only the most crucial parts of your CV, so be sure to put those into evidence when writing it!
+    Generally the person that will go through your CV (or algorithm *ed.*) won't have time to read it though carefully (or will prefer a shorter CV if it is an algorithm *ed.*) and will get only the most crucial parts of your CV, so be sure to put those into evidence when writing it!
 2. **Customise** it for the company you're applying for!
     Generally companies will look for different abilities of the candidate, so a slight customisation could go a long way, in particular if companies are very different between each other.
 3. **Chronological Order** from the most recent to the oldest!
@@ -84,5 +84,5 @@ Be sure to ask some question yourself at the end of the interview, this shows yo
 
 To conclude, having an idea of the interview works and prepare for it. Develop both **hard skills** and **soft skills**, but in the end show who you really are. 
 
-*Only you is you, and they haven't hired someone like you yet*
+*Only you is you, and they haven't hired someone like you yet.*
 
