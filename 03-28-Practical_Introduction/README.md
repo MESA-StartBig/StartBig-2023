@@ -62,8 +62,8 @@ These are the data structures to keep in mind and try, in order of frequency the
 * [Sliding window](https://www.geeksforgeeks.org/window-sliding-technique/)
 * [Two pointers](https://www.geeksforgeeks.org/two-pointers-technique/)
 * [Union find](https://www.geeksforgeeks.org/introduction-to-disjoint-set-data-structure-or-union-find-algorithm/)
-* [BFS](https://www.geeksforgeeks.org/breadth-first-search-or-bfs-for-a-graph/) (topic of the second practical session of StartBig!)
-* [DFS](https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/) (topic of the second practical session of StartBig!)
+* [Breadth First Search (BFS)](https://www.geeksforgeeks.org/breadth-first-search-or-bfs-for-a-graph/) (topic of the second practical session of StartBig!)
+* [Depth First Search (DFS)](https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/) (topic of the second practical session of StartBig!)
 * [Topological Sorting](https://www.geeksforgeeks.org/topological-sorting/)
 
 Other common algorithms commonly asked in coding interviews can be found [here](https://www.geeksforgeeks.org/algorithms-for-interviews/).
@@ -71,7 +71,7 @@ Other common algorithms commonly asked in coding interviews can be found [here](
 ## How to optimize your approach or solution
 
 After you've come up with an **initial solution** to the coding interview problem, your interviewer would most likely prompt you to optimize the solution by asking **"Can we do better?"**.
-In order to determine so we have to analyse the **time complexity** and the **space complexity** our our algorithm and understant what is the **minimum complexity** of the problem. 
+In order to determine so we have to analyse the **time complexity** and the **space complexity** our algorithm and understand what is the **minimum complexity** of the problem. 
 
 ### How to optimize time complexity
 ---
