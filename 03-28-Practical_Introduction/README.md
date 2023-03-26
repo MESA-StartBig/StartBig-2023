@@ -62,8 +62,8 @@ These are the data structures to keep in mind and try, in order of frequency the
 * [Sliding window](https://www.geeksforgeeks.org/window-sliding-technique/)
 * [Two pointers](https://www.geeksforgeeks.org/two-pointers-technique/)
 * [Union find](https://www.geeksforgeeks.org/introduction-to-disjoint-set-data-structure-or-union-find-algorithm/)
-* [Breadth First Search (BFS)](https://www.geeksforgeeks.org/breadth-first-search-or-bfs-for-a-graph/) (topic of the second practical session of StartBig!)
-* [Depth First Search (DFS)](https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/) (topic of the second practical session of StartBig!)
+* [BFS](https://www.geeksforgeeks.org/breadth-first-search-or-bfs-for-a-graph/) (topic of the second practical session of StartBig!)
+* [DFS](https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/) (topic of the second practical session of StartBig!)
 * [Topological Sorting](https://www.geeksforgeeks.org/topological-sorting/)
 
 Other common algorithms commonly asked in coding interviews can be found [here](https://www.geeksforgeeks.org/algorithms-for-interviews/).
@@ -71,7 +71,7 @@ Other common algorithms commonly asked in coding interviews can be found [here](
 ## How to optimize your approach or solution
 
 After you've come up with an **initial solution** to the coding interview problem, your interviewer would most likely prompt you to optimize the solution by asking **"Can we do better?"**.
-In order to determine so we have to analyse the **time complexity** and the **space complexity** our algorithm and understand what is the **minimum complexity** of the problem. 
+In order to determine so we have to analyse the **time complexity** and the **space complexity** our our algorithm and understant what is the **minimum complexity** of the problem. 
 
 ### How to optimize time complexity
 ---
@@ -277,13 +277,13 @@ Try to have a **step by step** process with an increasing level of difficulty, l
 
 ## Exercises for this session
 
-| Problem               |                Topic                 | LeetCode tag |                              Hyperlink                               |
-| :-------------------- | :----------------------------------: | :----------: | :------------------------------------------------------------------: |
-| `0N3`                 |           Two sum, arrays            |     Easy     |         [`CLICK_ME`](https://leetcode.com/problems/two-sum/)         |
-| `TW0`                 | Merge two sorted lists, linked lists |     Easy     | [`CLICK_ME`](https://leetcode.com/problems/merge-two-sorted-lists/)  |
-| `THR3E`               |  Top K frequent elements, _hidden_   |    Medium    | [`CLICK_ME`](https://leetcode.com/problems/top-k-frequent-elements/) |
-| `F0UR` (DIW homework) |        Valid sudoku, matrixes        |    Medium    |      [`CLICK_ME`](https://leetcode.com/problems/valid-sudoku/)       |
-| `F1V3` (DIW homework) |    Trapping rain water, _hidden_     |     Hard     |   [`CLICK_ME`](https://leetcode.com/problems/trapping-rain-water/)   |
+| Problem | Topic | LeetCode tag | Hyperlink |
+| :---:| :---: | :---: | :---: |
+| Two sum | Arrays | Easy | [`CLICK_ME`](https://leetcode.com/problems/two-sum/) |
+| Merge two sorted lists | Linked lists | Easy | [`CLICK_ME`](https://leetcode.com/problems/merge-two-sorted-lists/) |
+| Top-k frequent elements | _Hidden_ | Medium | [`CLICK_ME`](https://leetcode.com/problems/top-k-frequent-elements/) |
+| Valid sudoku (DIW homework) | Matrices | Medium | [`CLICK_ME`](https://leetcode.com/problems/valid-sudoku/) |
+| Trapping rain water (DIW homework) | _Hidden_ | Hard | [`CLICK_ME`](https://leetcode.com/problems/trapping-rain-water/) |
 
 
 ## Sources

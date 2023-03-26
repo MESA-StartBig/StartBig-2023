@@ -7,7 +7,7 @@ It is time to explore trees and graphs, two essential data structures commonly r
 Get ready to sharpen (again) your problem-solving skills!
 
 | Problem | Topic | LeetCode tag | Hyperlink |
-| :---    | :----:| :---:        | :---:     |
+| :---:   | :----:| :---:        | :---:     |
 | `0N3` | Data structures, coding interview | Easy | [`CLICK_ME`](https://leetcode.com/) |
 | `TW0` | Data structures, coding interview | Easy | [`CLICK_ME`](https://leetcode.com/) |
 | `THR3E` | Data structures, coding interview | Medium | [`CLICK_ME`](https://leetcode.com/) |
