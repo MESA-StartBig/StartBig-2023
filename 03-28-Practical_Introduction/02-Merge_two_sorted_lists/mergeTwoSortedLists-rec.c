@@ -24,14 +24,14 @@ struct ListNode* mergeTwoLists(struct ListNode* list1, struct ListNode* list2){
 		return list1;
 	} 
 		
-	// if value pointend by list1 pointer is less than equal to value pointed by list2 pointer
-	// we wall call recursively list1 -> next and whole list2 list
+	// if value pointed by list1 pointer is less than or equal to value pointed by list2 pointer
+	// we will call recursively list1 -> next and whole list2 list
 	if(list1 -> val <= list2 -> val) {
 		
-		list1 -> next = mergeTwoLists(list1 -> next, list2);
-		return list1;
+		list1 -> next = mergeTwoLists(list1 -> next, list2); // update next element of l1
+		return list1; // return pointer to current element
 	
-	} else { // we will call recursive list1 whole list and list2 -> next
+	} else {
 		
 		list2 -> next = mergeTwoLists(list1, list2 -> next);
 		return list2;            

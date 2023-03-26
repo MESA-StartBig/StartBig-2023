@@ -7,7 +7,7 @@ Welcome to the last technical meeting, where we will be exploring the problem-so
 Get ready to sharpen (yet another time) your problem-solving skills!
 
 | Problem | Topic | LeetCode tag | Hyperlink |
-| :---    | :----:| :---:        | :---:     |
+| :---:   | :----:| :---:        | :---:     |
 | `0N3` | Data structures, coding interview | Easy | [`CLICK_ME`](https://leetcode.com/) |
 | `TW0` | Data structures, coding interview | Easy | [`CLICK_ME`](https://leetcode.com/) |
 | `THR3E` | Data structures, coding interview | Medium | [`CLICK_ME`](https://leetcode.com/) |

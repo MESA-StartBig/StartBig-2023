@@ -277,13 +277,13 @@ Try to have a **step by step** process with an increasing level of difficulty, l
 
 ## Exercises for this session
 
-| Problem               |                Topic                 | LeetCode tag |                              Hyperlink                               |
-| :-------------------- | :----------------------------------: | :----------: | :------------------------------------------------------------------: |
-| `0N3`                 |           Two sum, arrays            |     Easy     |         [`CLICK_ME`](https://leetcode.com/problems/two-sum/)         |
-| `TW0`                 | Merge two sorted lists, linked lists |     Easy     | [`CLICK_ME`](https://leetcode.com/problems/merge-two-sorted-lists/)  |
-| `THR3E`               |  Top K frequent elements, _hidden_   |    Medium    | [`CLICK_ME`](https://leetcode.com/problems/top-k-frequent-elements/) |
-| `F0UR` (DIW homework) |        Valid sudoku, matrixes        |    Medium    |      [`CLICK_ME`](https://leetcode.com/problems/valid-sudoku/)       |
-| `F1V3` (DIW homework) |    Trapping rain water, _hidden_     |     Hard     |   [`CLICK_ME`](https://leetcode.com/problems/trapping-rain-water/)   |
+| Problem | Topic | LeetCode tag | Hyperlink |
+| :---:| :---: | :---: | :---: |
+| Two sum | Arrays | Easy | [`CLICK_ME`](https://leetcode.com/problems/two-sum/) |
+| Merge two sorted lists | Linked lists | Easy | [`CLICK_ME`](https://leetcode.com/problems/merge-two-sorted-lists/) |
+| Top-k frequent elements | _Hidden_ | Medium | [`CLICK_ME`](https://leetcode.com/problems/top-k-frequent-elements/) |
+| Valid sudoku (DIW homework) | Matrices | Medium | [`CLICK_ME`](https://leetcode.com/problems/valid-sudoku/) |
+| Trapping rain water (DIW homework) | _Hidden_ | Hard | [`CLICK_ME`](https://leetcode.com/problems/trapping-rain-water/) |
 
 
 ## Sources
