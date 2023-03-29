@@ -6,6 +6,8 @@ It is time to explore trees and graphs, two essential data structures commonly r
 
 Get ready to sharpen (again) your problem-solving skills!
 
+## Exercises
+
 | Problem | Topic | LeetCode tag | Hyperlink |
 | :---:   | :----:| :---:        | :---:     |
 | Symmetric tree | Trees | Easy | [`CLICK_ME`](https://leetcode.com/problems/symmetric-tree/) |
@@ -13,3 +15,11 @@ Get ready to sharpen (again) your problem-solving skills!
 | Course schedule | _Hidden_ | Medium | [`CLICK_ME`](https://leetcode.com/problems/course-schedule/) |
 | Course schedule II (DIW homework) | _Hidden_ | Medium | [`CLICK_ME`](https://leetcode.com/problems/course-schedule-ii/) |
 | Longest increasing path in a matrix (DIW homework) | Graphs | Hard | [`CLICK_ME`](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) |
+
+## Useful resources
+
+* [Binary trees](https://www.geeksforgeeks.org/binary-tree-data-structure/)
+* [BSTs](https://www.geeksforgeeks.org/binary-search-tree-data-structure/)
+* [Graphs](https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/)
+* [DFS algorithm](https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/)
+* [BFS algorithm](https://www.geeksforgeeks.org/breadth-first-search-or-bfs-for-a-graph/)
