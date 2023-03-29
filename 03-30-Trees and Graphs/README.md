@@ -8,8 +8,8 @@ Get ready to sharpen (again) your problem-solving skills!
 
 | Problem | Topic | LeetCode tag | Hyperlink |
 | :---:   | :----:| :---:        | :---:     |
-| `0N3` | Data structures, coding interview | Easy | [`CLICK_ME`](https://leetcode.com/) |
-| `TW0` | Data structures, coding interview | Easy | [`CLICK_ME`](https://leetcode.com/) |
-| `THR3E` | Data structures, coding interview | Medium | [`CLICK_ME`](https://leetcode.com/) |
-| `F0UR` (DIW homework) | Data structures, coding interview | Medium | [`CLICK_ME`](https://leetcode.com/) |
-| `F1V3` (DIW homework) | Data structures, coding interview | Hard | [`CLICK_ME`](https://leetcode.com/) |
+| Symmetric tree | Trees | Easy | [`CLICK_ME`](https://leetcode.com/problems/symmetric-tree/) |
+| Validate binary search tree | Trees | Easy | [`CLICK_ME`](https://leetcode.com/problems/validate-binary-search-tree/) |
+| Course schedule | _Hidden_ | Medium | [`CLICK_ME`](https://leetcode.com/problems/course-schedule/) |
+| Course schedule II (DIW homework) | _Hidden_ | Medium | [`CLICK_ME`](https://leetcode.com/problems/course-schedule-ii/) |
+| Longest increasing path in a matrix (DIW homework) | Graphs | Hard | [`CLICK_ME`](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) |
